@@ -2,7 +2,6 @@ import os
 import shutil
 from py_scripts.utils import read_data
 from py_scripts.etl_task import EtlTask
-from py_scripts.connection import Connection
 from py_scripts.creds import DB_PATH, tables_info
 import datetime
 
