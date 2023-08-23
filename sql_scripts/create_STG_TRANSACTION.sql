@@ -11,5 +11,6 @@ product_line VARCHAR(255),
 product_class VARCHAR(255),
 product_size VARCHAR(255),
 list_price VARCHAR(255),
-product_first_sold_date VARCHAR(255),
+standard_cost VARCHAR(255),
+product_first_sold_date VARCHAR(255)
 );

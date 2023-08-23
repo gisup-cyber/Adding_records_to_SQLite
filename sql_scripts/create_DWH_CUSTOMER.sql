@@ -11,7 +11,7 @@ deceased_indicator CHAR(1),
 owns_car BOOLEAN(128),
 tenure INTEGER(128),
 create_dt DATE,
-update_dt DATE,)
+update_dt DATE);
 
 CREATE TRIGGER if not exists update_trigger_DWH_CUSTOMER AFTER UPDATE ON DWH_CUSTOMER
  BEGIN

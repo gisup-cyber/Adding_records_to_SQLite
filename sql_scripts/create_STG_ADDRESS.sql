@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS STG_ADDRESS;
+CREATE TABLE IF NOT EXISTS STG_ADDRESS(
+customer_id VARCHAR(255),
+'address' VARCHAR(255),
+postcode VARCHAR(255),
+'state' VARCHAR(255),
+country VARCHAR(255),
+property_valuation VARCHAR(255)
+);

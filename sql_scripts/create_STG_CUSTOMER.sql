@@ -8,7 +8,9 @@ past_3_years_bike_related_purchases VARCHAR(255),
 DOB VARCHAR(255),
 job_title VARCHAR(255),
 job_industry_category VARCHAR(255),
+wealth_segment VARCHAR(255),
 deceased_indicator VARCHAR(255),
+default_column VARCHAR(255),
 owns_car VARCHAR(255),
-tenure VARCHAR(255),
+tenure VARCHAR(255)
 );

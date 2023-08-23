@@ -1,0 +1,51 @@
+2023-08-23 20:33:55,281 INFO:near ")": syntax error
+2023-08-23 20:35:40,281 INFO:near ")": syntax error
+2023-08-23 20:35:57,450 INFO:near ")": syntax error
+2023-08-23 21:54:35,465 INFO:table STG_TRANSACTION has no column named standard_cost
+2023-08-23 21:57:28,891 INFO:table STG_TRANSACTION has no column named standard_cost
+2023-08-23 22:09:30,438 INFO:near "default": syntax error
+2023-08-23 22:11:37,908 INFO:near "default": syntax error
+2023-08-23 22:11:40,299 INFO:near "default": syntax error
+2023-08-23 22:12:17,670 INFO:table STG_ADDRESS has no column named address
+2023-08-23 22:17:19,996 INFO:near "VARCHAR": syntax error
+2023-08-23 22:20:27,266 INFO:near "default": syntax error
+2023-08-23 22:23:01,985 INFO:near "default": syntax error
+2023-08-23 22:26:12,832 INFO:near "default": syntax error
+2023-08-23 22:32:46,245 INFO:near "default": syntax error
+2023-08-23 23:09:40,058 INFO:table STG_CUSTOMER has no column named wealth_segment
+2023-08-23 23:11:03,484 INFO:near ")": syntax error
+2023-08-23 23:42:41,106 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_TRANSACTION.sql'
+2023-08-24 00:14:13,470 INFO:near ")": syntax error
+2023-08-24 00:23:19,206 INFO:near ")": syntax error
+2023-08-24 00:23:59,109 INFO:near ";": syntax error
+2023-08-24 00:25:57,313 INFO:no such table: STG_TRANSACTIONS
+2023-08-24 00:26:55,602 INFO:12 values for 14 columns
+2023-08-24 00:33:25,839 INFO:12 values for 14 columns
+2023-08-24 00:36:49,077 INFO:near ")": syntax error
+2023-08-24 00:36:49,812 INFO:unrecognized token: ":"
+2023-08-24 00:36:49,840 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:36:50,119 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_CUSTOMER.sql'
+2023-08-24 00:36:50,280 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:39:35,184 INFO:unrecognized token: ":"
+2023-08-24 00:39:35,184 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:39:35,462 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_CUSTOMER.sql'
+2023-08-24 00:39:35,623 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:52:05,457 INFO:unrecognized token: ":"
+2023-08-24 00:52:05,457 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:52:05,746 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_CUSTOMER.sql'
+2023-08-24 00:52:05,898 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:53:15,755 INFO:unrecognized token: ":"
+2023-08-24 00:53:15,755 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:53:16,047 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_CUSTOMER.sql'
+2023-08-24 00:53:16,210 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:58:12,700 INFO:unrecognized token: ":"
+2023-08-24 00:58:12,701 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 00:58:12,989 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_CUSTOMER.sql'
+2023-08-24 00:58:13,154 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 01:07:07,542 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_CUSTOMER.sql'
+2023-08-24 01:07:07,710 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 01:14:33,437 INFO:near "INTEGER": syntax error
+2023-08-24 01:14:33,602 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 01:17:26,235 INFO:[Errno 2] No such file or directory: './sql_scripts/insert_DWH_ADDRESS.sql'
+2023-08-24 01:26:10,416 INFO:near "INTEGER": syntax error
+2023-08-24 01:26:41,531 INFO:6 values for 7 columns
